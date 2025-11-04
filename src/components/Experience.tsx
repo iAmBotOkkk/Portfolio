@@ -4,7 +4,7 @@ const experiences = [
   {
     company: 'NRL',
     position: 'Software Developer Intern',
-    period: '2024',
+    period: '2025',
     description: 'Developed a feedback system named S.A.T.U.R.N of their existing  Assest management & call logging system. ',
     achievements: [
       'It helps their engineers to get a comprehensive feedback.',

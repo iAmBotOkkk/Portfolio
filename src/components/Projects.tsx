@@ -4,17 +4,24 @@ const projects = [
   {
     title: 'SkillFitAI',
     description: 'SkillfitAi is an open-source, AI-powered system designed to match a users resume or CV with relevant job listings from a constantly updated database. By extracting key skills from your document, it provides job suggestions along with an accuracy percentage to indicate the quality of the match.',
-    tech: ['React', 'Node.js', 'PostgreSQL', 'Stripe'],
+    tech: ['React', 'Node.js', 'Typescript','MongoDb', 'Python' , 'AceternityUI'],
     github: 'https://github.com/iAmBotOkkk/SkillFitAI',
+    color:'from-blue-500 to-purple-500'
   },
   {
     title: 'StreamChamp',
-    description: '',
-    tech: ['Next.js', 'TypeScript', 'Supabase', 'Tailwind'],
-    github: 'https://github.com',
-    live: 'https://example.com',
+    description: 'StreamChamp is a videoCalling and ChatApp.You can have real-time messaging with typing indicators & reactions and can do 1 on 1 and group video calls ',
+    tech: ['React.js', 'Javascript', 'MongoDB', 'TailwindCSS' , 'TanstackQuery', "Stream"],
+    github: 'https://github.com/iAmBotOkkk/StreamChamp',
     color: 'from-purple-500 to-pink-500',
   },
+  {
+    title: 'Portfolio',
+    description: 'Developed a portfolio website to showcase my projects, skills and experience ',
+    tech:['React.js' , 'Typescript', 'TailwindCss', ],
+    github: 'https://github.com/iAmBotOkkk/Portfolio',
+    color:'from-green-500 via-red-500 to-yellow-500'
+  }
  
 ];
 

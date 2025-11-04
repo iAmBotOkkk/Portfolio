@@ -13,8 +13,8 @@ function App() {
       <Hero />
       <Summary />
       <TechStack />
-      <Experience />
       <Projects />
+      <Experience />
       <Footer />
     </div>
   );
